@@ -5,5 +5,5 @@ SHAKTI-ISSM files are contained in the folder "/pumping_repo/" whereas variable 
 
 The other files contain analysis for the fixed flux model including
 - fixed_b: model for constant gap height
-- inner_piece: model for flux envelope near the borehole
+- inner_piece_Dhat: model for flux envelope near the borehole
 - nds_2km: model that sweeps through effective pressure
