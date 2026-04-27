@@ -1,5 +1,5 @@
 # water-extraction
-Ongoing work on extracting water from a subglacial hydrologic system. 
+Ongoing work on extracting water from a subglacial hydrologic system, associated with the preprint: https://doi.org/10.5194/egusphere-2025-4867 
 
 SHAKTI-ISSM files are contained in the folder "/pumping_repo/" whereas variable flux analysis is in the folder "/variable_flux/"
 
